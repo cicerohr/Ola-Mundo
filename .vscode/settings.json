@@ -1,3 +1,4 @@
 {
-    "html.format.endWithNewline": true
+    "html.format.endWithNewline": true,
+    "cSpell.language": "en,pt-BR,pt"
 }
